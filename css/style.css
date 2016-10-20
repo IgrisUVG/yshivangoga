@@ -65,15 +65,11 @@ body {
 .nav li img:hover {
 	-webkit-filter: opacity(40%);
 	-moz-filter: opacity(40%);
-	-o-filter: opacity(40%);
-	-ms-filter: opacity(40%);
 	filter: opacity(40%);
 }
 .active {
 	-webkit-filter: opacity(25%);
 	-moz-filter: opacity(25%);
-	-o-filter: opacity(40%);
-	-ms-filter: opacity(40%);
 	filter: opacity(25%);
 	pointer-events: none;
   cursor: default;

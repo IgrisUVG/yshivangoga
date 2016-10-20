@@ -12,10 +12,8 @@ $(document).ready(function(){
     });
   });
   $('.navR a').click(function() {
+		$(".nav li").removeClass("active");
     $('*').removeClass('verbergend');
 		$(this).addClass('verbergend');
-    /*$('body,html').animate({
-      scrollTop: 0
-    }, 800);*/
   }) 
 });

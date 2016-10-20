@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /application/bootstrap.php
+Disallow: /js
+Disallow: /css
+Disallow: /application/core/
+Disallow: /application/controllers/
+Sitemap: http://yshivangoga.ru/sitemap.xml
+Host: yshivangoga.ru
