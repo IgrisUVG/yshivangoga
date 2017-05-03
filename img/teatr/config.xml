@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	galleryTitle="ТеатрЪ, 17 ноября 2013"
+
+>
+  <image imageURL="images/teatr01.jpg"
+	thumbURL="thumbs/teatr01.jpg"
+	linkURL="images/teatr01.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr05.jpg"
+	thumbURL="thumbs/teatr05.jpg"
+	linkURL="images/teatr05.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr05.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr06.jpg"
+	thumbURL="thumbs/teatr06.jpg"
+	linkURL="images/teatr06.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr06.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr07.jpg"
+	thumbURL="thumbs/teatr07.jpg"
+	linkURL="images/teatr07.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr07.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr08.jpg"
+	thumbURL="thumbs/teatr08.jpg"
+	linkURL="images/teatr08.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr08.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr09.jpg"
+	thumbURL="thumbs/teatr09.jpg"
+	linkURL="images/teatr09.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr09.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr10.jpg"
+	thumbURL="thumbs/teatr10.jpg"
+	linkURL="images/teatr10.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr11.jpg"
+	thumbURL="thumbs/teatr11.jpg"
+	linkURL="images/teatr11.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr13.jpg"
+	thumbURL="thumbs/teatr13.jpg"
+	linkURL="images/teatr13.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr13.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr14.jpg"
+	thumbURL="thumbs/teatr14.jpg"
+	linkURL="images/teatr14.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr14.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr15.jpg"
+	thumbURL="thumbs/teatr15.jpg"
+	linkURL="images/teatr15.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr15.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/teatr16.jpg"
+	thumbURL="thumbs/teatr16.jpg"
+	linkURL="images/teatr16.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\teatr\resources\images\large\teatr16.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

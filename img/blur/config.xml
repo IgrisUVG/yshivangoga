@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	galleryTitle="BLURcafe, 6 и 15 ноября 2013"
+	captionBackColor="rgba(0,0,0,0)"
+	textColor="rgba(255,255,255,1)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+
+>
+  <image imageURL="images/blur01.jpg"
+	thumbURL="thumbs/blur01.jpg"
+	linkURL="images/blur01.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur02.jpg"
+	thumbURL="thumbs/blur02.jpg"
+	linkURL="images/blur02.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur02.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur04.jpg"
+	thumbURL="thumbs/blur04.jpg"
+	linkURL="images/blur04.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur04.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur07.jpg"
+	thumbURL="thumbs/blur07.jpg"
+	linkURL="images/blur07.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur07.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur08.jpg"
+	thumbURL="thumbs/blur08.jpg"
+	linkURL="images/blur08.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur08.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur09.jpg"
+	thumbURL="thumbs/blur09.jpg"
+	linkURL="images/blur09.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur09.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur10.jpg"
+	thumbURL="thumbs/blur10.jpg"
+	linkURL="images/blur10.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur12.jpg"
+	thumbURL="thumbs/blur12.jpg"
+	linkURL="images/blur12.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur13.jpg"
+	thumbURL="thumbs/blur13.jpg"
+	linkURL="images/blur13.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur13.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur14.jpg"
+	thumbURL="thumbs/blur14.jpg"
+	linkURL="images/blur14.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur14.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur15.jpg"
+	thumbURL="thumbs/blur15.jpg"
+	linkURL="images/blur15.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur15.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur16.jpg"
+	thumbURL="thumbs/blur16.jpg"
+	linkURL="images/blur16.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur16.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur17.jpg"
+	thumbURL="thumbs/blur17.jpg"
+	linkURL="images/blur17.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur17.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur18.jpg"
+	thumbURL="thumbs/blur18.jpg"
+	linkURL="images/blur18.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur18.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur19.jpg"
+	thumbURL="thumbs/blur19.jpg"
+	linkURL="images/blur19.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur19.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur20.jpg"
+	thumbURL="thumbs/blur20.jpg"
+	linkURL="images/blur20.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur20.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur21.jpg"
+	thumbURL="thumbs/blur21.jpg"
+	linkURL="images/blur21.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur21.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur22.jpg"
+	thumbURL="thumbs/blur22.jpg"
+	linkURL="images/blur22.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur22.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur23.jpg"
+	thumbURL="thumbs/blur23.jpg"
+	linkURL="images/blur23.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur23.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur24.jpg"
+	thumbURL="thumbs/blur24.jpg"
+	linkURL="images/blur24.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur24.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/blur25.jpg"
+	thumbURL="thumbs/blur25.jpg"
+	linkURL="images/blur25.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\blur\resources\images\large\blur25.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

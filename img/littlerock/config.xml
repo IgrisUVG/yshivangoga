@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	galleryTitle="Little Rock, 26 октября 2013"
+
+>
+  <image imageURL="images/lr000.jpg"
+	thumbURL="thumbs/lr000.jpg"
+	linkURL="images/lr000.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr000.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr003.jpg"
+	thumbURL="thumbs/lr003.jpg"
+	linkURL="images/lr003.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr003.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr004.jpg"
+	thumbURL="thumbs/lr004.jpg"
+	linkURL="images/lr004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr004.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr005.jpg"
+	thumbURL="thumbs/lr005.jpg"
+	linkURL="images/lr005.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr005.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr007.jpg"
+	thumbURL="thumbs/lr007.jpg"
+	linkURL="images/lr007.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr007.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr008.jpg"
+	thumbURL="thumbs/lr008.jpg"
+	linkURL="images/lr008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr008.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr009.jpg"
+	thumbURL="thumbs/lr009.jpg"
+	linkURL="images/lr009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr009.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr010.jpg"
+	thumbURL="thumbs/lr010.jpg"
+	linkURL="images/lr010.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr010.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr011.jpg"
+	thumbURL="thumbs/lr011.jpg"
+	linkURL="images/lr011.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr011.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr012.jpg"
+	thumbURL="thumbs/lr012.jpg"
+	linkURL="images/lr012.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr012.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr013.jpg"
+	thumbURL="thumbs/lr013.jpg"
+	linkURL="images/lr013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr013.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr014.jpg"
+	thumbURL="thumbs/lr014.jpg"
+	linkURL="images/lr014.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr014.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr015.jpg"
+	thumbURL="thumbs/lr015.jpg"
+	linkURL="images/lr015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr015.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr016.jpg"
+	thumbURL="thumbs/lr016.jpg"
+	linkURL="images/lr016.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr016.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr017.jpg"
+	thumbURL="thumbs/lr017.jpg"
+	linkURL="images/lr017.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr017.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr018.jpg"
+	thumbURL="thumbs/lr018.jpg"
+	linkURL="images/lr018.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr018.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr019.jpg"
+	thumbURL="thumbs/lr019.jpg"
+	linkURL="images/lr019.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr019.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr021.jpg"
+	thumbURL="thumbs/lr021.jpg"
+	linkURL="images/lr021.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr021.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr022.jpg"
+	thumbURL="thumbs/lr022.jpg"
+	linkURL="images/lr022.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr022.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr023.jpg"
+	thumbURL="thumbs/lr023.jpg"
+	linkURL="images/lr023.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr023.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr024.jpg"
+	thumbURL="thumbs/lr024.jpg"
+	linkURL="images/lr024.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr024.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lr025.jpg"
+	thumbURL="thumbs/lr025.jpg"
+	linkURL="images/lr025.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\littlerock\resources\images\large\lr025.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

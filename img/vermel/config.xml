@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	galleryTitle="Вермель, 30 октября 2013"
+
+>
+  <image imageURL="images/w01.jpg"
+	thumbURL="thumbs/w01.jpg"
+	linkURL="images/w01.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w03.jpg"
+	thumbURL="thumbs/w03.jpg"
+	linkURL="images/w03.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w03.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w04.jpg"
+	thumbURL="thumbs/w04.jpg"
+	linkURL="images/w04.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w04.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w05.jpg"
+	thumbURL="thumbs/w05.jpg"
+	linkURL="images/w05.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w05.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w06.jpg"
+	thumbURL="thumbs/w06.jpg"
+	linkURL="images/w06.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w06.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w08.jpg"
+	thumbURL="thumbs/w08.jpg"
+	linkURL="images/w08.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w08.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w09.jpg"
+	thumbURL="thumbs/w09.jpg"
+	linkURL="images/w09.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w09.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w12.jpg"
+	thumbURL="thumbs/w12.jpg"
+	linkURL="images/w12.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w13.jpg"
+	thumbURL="thumbs/w13.jpg"
+	linkURL="images/w13.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w13.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w14.jpg"
+	thumbURL="thumbs/w14.jpg"
+	linkURL="images/w14.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w14.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w15.jpg"
+	thumbURL="thumbs/w15.jpg"
+	linkURL="images/w15.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w15.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w16.jpg"
+	thumbURL="thumbs/w16.jpg"
+	linkURL="images/w16.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w16.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w17.jpg"
+	thumbURL="thumbs/w17.jpg"
+	linkURL="images/w17.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w17.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w19.jpg"
+	thumbURL="thumbs/w19.jpg"
+	linkURL="images/w19.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w19.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w20.jpg"
+	thumbURL="thumbs/w20.jpg"
+	linkURL="images/w20.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w20.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w21.jpg"
+	thumbURL="thumbs/w21.jpg"
+	linkURL="images/w21.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w21.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w23.jpg"
+	thumbURL="thumbs/w23.jpg"
+	linkURL="images/w23.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w23.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/w24.jpg"
+	thumbURL="thumbs/w24.jpg"
+	linkURL="images/w24.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\vermel\resources\images\large\w24.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	galleryTitle="На радио «Культура»"
+
+>
+  <image imageURL="images/025ig_1.jpg"
+	thumbURL="thumbs/025ig_1.jpg"
+	linkURL="images/025ig_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\025ig_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/026ig.jpg"
+	thumbURL="thumbs/026ig.jpg"
+	linkURL="images/026ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\026ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/027ig.jpg"
+	thumbURL="thumbs/027ig.jpg"
+	linkURL="images/027ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\027ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/029ig.jpg"
+	thumbURL="thumbs/029ig.jpg"
+	linkURL="images/029ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\029ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/030ig.jpg"
+	thumbURL="thumbs/030ig.jpg"
+	linkURL="images/030ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\030ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/031ig.jpg"
+	thumbURL="thumbs/031ig.jpg"
+	linkURL="images/031ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\031ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/032ig.jpg"
+	thumbURL="thumbs/032ig.jpg"
+	linkURL="images/032ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\032ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/033ig.jpg"
+	thumbURL="thumbs/033ig.jpg"
+	linkURL="images/033ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\033ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/034ig.jpg"
+	thumbURL="thumbs/034ig.jpg"
+	linkURL="images/034ig.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\radio\resources\images\large\034ig.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

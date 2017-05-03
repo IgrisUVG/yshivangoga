@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	galleryTitle="BARiTON, 31 октября 2013"
+	captionBackColor="rgba(0,0,0,0)"
+	imageShadowColor="rgba(0,0,0,0.4)"
+	textColor="rgba(255,255,255,1)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="4"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+
+>
+  <image imageURL="images/bt01.jpg"
+	thumbURL="thumbs/bt01.jpg"
+	linkURL="images/bt01.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\bariton\resources\images\large\bt01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bt02.jpg"
+	thumbURL="thumbs/bt02.jpg"
+	linkURL="images/bt02.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\bariton\resources\images\large\bt02.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bt03.jpg"
+	thumbURL="thumbs/bt03.jpg"
+	linkURL="images/bt03.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\bariton\resources\images\large\bt03.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bt04.jpg"
+	thumbURL="thumbs/bt04.jpg"
+	linkURL="images/bt04.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\bariton\resources\images\large\bt04.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bt05.jpg"
+	thumbURL="thumbs/bt05.jpg"
+	linkURL="images/bt05.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\bariton\resources\images\large\bt05.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bt06.jpg"
+	thumbURL="thumbs/bt06.jpg"
+	linkURL="images/bt06.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\bariton\resources\images\large\bt06.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bt07.jpg"
+	thumbURL="thumbs/bt07.jpg"
+	linkURL="images/bt07.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\bariton\resources\images\large\bt07.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

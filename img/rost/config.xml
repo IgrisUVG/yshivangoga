@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	galleryTitle="Фото: Александр Ростокин"
+
+>
+  <image imageURL="images/3855958D.jpg"
+	thumbURL="thumbs/3855958D.jpg"
+	linkURL="images/3855958D.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\3855958D.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3855959F.jpg"
+	thumbURL="thumbs/3855959F.jpg"
+	linkURL="images/3855959F.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\3855959F.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3856189C.jpg"
+	thumbURL="thumbs/3856189C.jpg"
+	linkURL="images/3856189C.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\3856189C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3856190O.jpg"
+	thumbURL="thumbs/3856190O.jpg"
+	linkURL="images/3856190O.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\3856190O.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3856197C.jpg"
+	thumbURL="thumbs/3856197C.jpg"
+	linkURL="images/3856197C.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\3856197C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4245862V.jpg"
+	thumbURL="thumbs/4245862V.jpg"
+	linkURL="images/4245862V.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4245862V.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4245926Q.jpg"
+	thumbURL="thumbs/4245926Q.jpg"
+	linkURL="images/4245926Q.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4245926Q.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4385723P.jpg"
+	thumbURL="thumbs/4385723P.jpg"
+	linkURL="images/4385723P.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4385723P.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4385728X.jpg"
+	thumbURL="thumbs/4385728X.jpg"
+	linkURL="images/4385728X.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4385728X.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4385729J.jpg"
+	thumbURL="thumbs/4385729J.jpg"
+	linkURL="images/4385729J.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4385729J.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4385738I.jpg"
+	thumbURL="thumbs/4385738I.jpg"
+	linkURL="images/4385738I.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4385738I.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4385769C.jpg"
+	thumbURL="thumbs/4385769C.jpg"
+	linkURL="images/4385769C.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4385769C.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4386002U.jpg"
+	thumbURL="thumbs/4386002U.jpg"
+	linkURL="images/4386002U.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\4386002U.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619542K.jpg"
+	thumbURL="thumbs/5619542K.jpg"
+	linkURL="images/5619542K.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619542K.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619543F.jpg"
+	thumbURL="thumbs/5619543F.jpg"
+	linkURL="images/5619543F.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619543F.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619551R.jpg"
+	thumbURL="thumbs/5619551R.jpg"
+	linkURL="images/5619551R.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619551R.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619552J.jpg"
+	thumbURL="thumbs/5619552J.jpg"
+	linkURL="images/5619552J.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619552J.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619553O.jpg"
+	thumbURL="thumbs/5619553O.jpg"
+	linkURL="images/5619553O.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619553O.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619556H.jpg"
+	thumbURL="thumbs/5619556H.jpg"
+	linkURL="images/5619556H.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619556H.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619557O.jpg"
+	thumbURL="thumbs/5619557O.jpg"
+	linkURL="images/5619557O.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619557O.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619568J.jpg"
+	thumbURL="thumbs/5619568J.jpg"
+	linkURL="images/5619568J.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619568J.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5619570D.jpg"
+	thumbURL="thumbs/5619570D.jpg"
+	linkURL="images/5619570D.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\5619570D.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6314939L.jpg"
+	thumbURL="thumbs/6314939L.jpg"
+	linkURL="images/6314939L.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\6314939L.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9445550H.jpg"
+	thumbURL="thumbs/9445550H.jpg"
+	linkURL="images/9445550H.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\9445550H.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9445553N.jpg"
+	thumbURL="thumbs/9445553N.jpg"
+	linkURL="images/9445553N.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\9445553N.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9445570A.jpg"
+	thumbURL="thumbs/9445570A.jpg"
+	linkURL="images/9445570A.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\9445570A.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920810.jpg"
+	thumbURL="thumbs/12920810.jpg"
+	linkURL="images/12920810.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920810.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920811.jpg"
+	thumbURL="thumbs/12920811.jpg"
+	linkURL="images/12920811.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920811.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920813.jpg"
+	thumbURL="thumbs/12920813.jpg"
+	linkURL="images/12920813.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920813.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920881.jpg"
+	thumbURL="thumbs/12920881.jpg"
+	linkURL="images/12920881.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920881.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920885.jpg"
+	thumbURL="thumbs/12920885.jpg"
+	linkURL="images/12920885.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920885.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920923.jpg"
+	thumbURL="thumbs/12920923.jpg"
+	linkURL="images/12920923.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920923.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920924.jpg"
+	thumbURL="thumbs/12920924.jpg"
+	linkURL="images/12920924.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920924.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920926.jpg"
+	thumbURL="thumbs/12920926.jpg"
+	linkURL="images/12920926.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920926.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920946.jpg"
+	thumbURL="thumbs/12920946.jpg"
+	linkURL="images/12920946.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920946.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920948.jpg"
+	thumbURL="thumbs/12920948.jpg"
+	linkURL="images/12920948.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920948.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12920949.jpg"
+	thumbURL="thumbs/12920949.jpg"
+	linkURL="images/12920949.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12920949.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12921002.jpg"
+	thumbURL="thumbs/12921002.jpg"
+	linkURL="images/12921002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\rost\resources\images\large\12921002.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

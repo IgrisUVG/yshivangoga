@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	galleryTitle="Шоколадная фабрика, 13 декабря 2013"
+
+>
+  <image imageURL="images/IMG_2373.jpg"
+	thumbURL="thumbs/IMG_2373.jpg"
+	linkURL="images/IMG_2373.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2373.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2379.jpg"
+	thumbURL="thumbs/IMG_2379.jpg"
+	linkURL="images/IMG_2379.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2379.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2381.jpg"
+	thumbURL="thumbs/IMG_2381.jpg"
+	linkURL="images/IMG_2381.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2381.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2385.jpg"
+	thumbURL="thumbs/IMG_2385.jpg"
+	linkURL="images/IMG_2385.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2385.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2422.jpg"
+	thumbURL="thumbs/IMG_2422.jpg"
+	linkURL="images/IMG_2422.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2422.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2424.jpg"
+	thumbURL="thumbs/IMG_2424.jpg"
+	linkURL="images/IMG_2424.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2424.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2428.jpg"
+	thumbURL="thumbs/IMG_2428.jpg"
+	linkURL="images/IMG_2428.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2428.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2435.jpg"
+	thumbURL="thumbs/IMG_2435.jpg"
+	linkURL="images/IMG_2435.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2435.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2440.jpg"
+	thumbURL="thumbs/IMG_2440.jpg"
+	linkURL="images/IMG_2440.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\shokolad\resources\images\large\IMG_2440.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	galleryTitle="ДОЖДЬ-МАЖОР, 25 декабря 2014"
+
+>
+  <image imageURL="images/IMG_8097.jpg"
+	thumbURL="thumbs/IMG_8097.jpg"
+	linkURL="images/IMG_8097.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8097.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8111.jpg"
+	thumbURL="thumbs/IMG_8111.jpg"
+	linkURL="images/IMG_8111.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8111.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8113.jpg"
+	thumbURL="thumbs/IMG_8113.jpg"
+	linkURL="images/IMG_8113.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8113.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8114.jpg"
+	thumbURL="thumbs/IMG_8114.jpg"
+	linkURL="images/IMG_8114.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8114.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8115.jpg"
+	thumbURL="thumbs/IMG_8115.jpg"
+	linkURL="images/IMG_8115.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8115.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8117.jpg"
+	thumbURL="thumbs/IMG_8117.jpg"
+	linkURL="images/IMG_8117.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8117.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8133.jpg"
+	thumbURL="thumbs/IMG_8133.jpg"
+	linkURL="images/IMG_8133.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8133.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8143.jpg"
+	thumbURL="thumbs/IMG_8143.jpg"
+	linkURL="images/IMG_8143.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8143.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8152.jpg"
+	thumbURL="thumbs/IMG_8152.jpg"
+	linkURL="images/IMG_8152.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8152.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8162.jpg"
+	thumbURL="thumbs/IMG_8162.jpg"
+	linkURL="images/IMG_8162.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8162.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8194.jpg"
+	thumbURL="thumbs/IMG_8194.jpg"
+	linkURL="images/IMG_8194.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8194.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8197.jpg"
+	thumbURL="thumbs/IMG_8197.jpg"
+	linkURL="images/IMG_8197.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8197.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8208.jpg"
+	thumbURL="thumbs/IMG_8208.jpg"
+	linkURL="images/IMG_8208.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8208.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8223.jpg"
+	thumbURL="thumbs/IMG_8223.jpg"
+	linkURL="images/IMG_8223.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8223.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8226.jpg"
+	thumbURL="thumbs/IMG_8226.jpg"
+	linkURL="images/IMG_8226.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8226.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8228.jpg"
+	thumbURL="thumbs/IMG_8228.jpg"
+	linkURL="images/IMG_8228.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8228.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8230.jpg"
+	thumbURL="thumbs/IMG_8230.jpg"
+	linkURL="images/IMG_8230.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8230.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8236.jpg"
+	thumbURL="thumbs/IMG_8236.jpg"
+	linkURL="images/IMG_8236.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8236.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8241.jpg"
+	thumbURL="thumbs/IMG_8241.jpg"
+	linkURL="images/IMG_8241.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8241.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8245.jpg"
+	thumbURL="thumbs/IMG_8245.jpg"
+	linkURL="images/IMG_8245.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8245.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8254.jpg"
+	thumbURL="thumbs/IMG_8254.jpg"
+	linkURL="images/IMG_8254.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8254.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8264.jpg"
+	thumbURL="thumbs/IMG_8264.jpg"
+	linkURL="images/IMG_8264.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8264.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8274.jpg"
+	thumbURL="thumbs/IMG_8274.jpg"
+	linkURL="images/IMG_8274.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8274.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8276.jpg"
+	thumbURL="thumbs/IMG_8276.jpg"
+	linkURL="images/IMG_8276.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8276.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8303.jpg"
+	thumbURL="thumbs/IMG_8303.jpg"
+	linkURL="images/IMG_8303.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8303.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8310.jpg"
+	thumbURL="thumbs/IMG_8310.jpg"
+	linkURL="images/IMG_8310.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\dojd\resources\images\large\IMG_8310.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

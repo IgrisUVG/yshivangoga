@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	galleryTitleHAlign="CENTER"
+	galleryFontFace="Georgia"
+	textShadowColor="rgba(0,0,0,0.8)"
+	imagePreloading="ALL"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_2.jpg"
+	thumbURL="thumbs/_2.jpg"
+	linkURL="images/_2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_3.jpg"
+	thumbURL="thumbs/_3.jpg"
+	linkURL="images/_3.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\_3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_4.jpg"
+	thumbURL="thumbs/_4.jpg"
+	linkURL="images/_4.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\_4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_5.jpg"
+	thumbURL="thumbs/_5.jpg"
+	linkURL="images/_5.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\_5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_6.jpg"
+	thumbURL="thumbs/_6.jpg"
+	linkURL="images/_6.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\_6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4251.jpg"
+	thumbURL="thumbs/IMG_4251.jpg"
+	linkURL="images/IMG_4251.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4251.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4253.jpg"
+	thumbURL="thumbs/IMG_4253.jpg"
+	linkURL="images/IMG_4253.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4253.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4257.jpg"
+	thumbURL="thumbs/IMG_4257.jpg"
+	linkURL="images/IMG_4257.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4257.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4259.jpg"
+	thumbURL="thumbs/IMG_4259.jpg"
+	linkURL="images/IMG_4259.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4259.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4262.jpg"
+	thumbURL="thumbs/IMG_4262.jpg"
+	linkURL="images/IMG_4262.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4262.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4263.jpg"
+	thumbURL="thumbs/IMG_4263.jpg"
+	linkURL="images/IMG_4263.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4263.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4264.jpg"
+	thumbURL="thumbs/IMG_4264.jpg"
+	linkURL="images/IMG_4264.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4264.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4265.jpg"
+	thumbURL="thumbs/IMG_4265.jpg"
+	linkURL="images/IMG_4265.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4265.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4266.jpg"
+	thumbURL="thumbs/IMG_4266.jpg"
+	linkURL="images/IMG_4266.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4266.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4269.jpg"
+	thumbURL="thumbs/IMG_4269.jpg"
+	linkURL="images/IMG_4269.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4269.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4277.jpg"
+	thumbURL="thumbs/IMG_4277.jpg"
+	linkURL="images/IMG_4277.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4277.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4279.jpg"
+	thumbURL="thumbs/IMG_4279.jpg"
+	linkURL="images/IMG_4279.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4279.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4281.jpg"
+	thumbURL="thumbs/IMG_4281.jpg"
+	linkURL="images/IMG_4281.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4281.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4282.jpg"
+	thumbURL="thumbs/IMG_4282.jpg"
+	linkURL="images/IMG_4282.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4282.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4283.jpg"
+	thumbURL="thumbs/IMG_4283.jpg"
+	linkURL="images/IMG_4283.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4283.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4286.jpg"
+	thumbURL="thumbs/IMG_4286.jpg"
+	linkURL="images/IMG_4286.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4286.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4287.jpg"
+	thumbURL="thumbs/IMG_4287.jpg"
+	linkURL="images/IMG_4287.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4287.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4289.jpg"
+	thumbURL="thumbs/IMG_4289.jpg"
+	linkURL="images/IMG_4289.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4289.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4291.jpg"
+	thumbURL="thumbs/IMG_4291.jpg"
+	linkURL="images/IMG_4291.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4291.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4292.jpg"
+	thumbURL="thumbs/IMG_4292.jpg"
+	linkURL="images/IMG_4292.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4292.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4297.jpg"
+	thumbURL="thumbs/IMG_4297.jpg"
+	linkURL="images/IMG_4297.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4297.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4299.jpg"
+	thumbURL="thumbs/IMG_4299.jpg"
+	linkURL="images/IMG_4299.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\yshivangoga.loc\www\img\sit\resources\images\large\IMG_4299.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
