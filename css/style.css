@@ -1,227 +1,281 @@
 html {
-	height: 100%;
+    height: 100%;
 }
+
 body {
-	width: 80%;
-	max-width: 1280px;
-	min-width: 1280px;
-	margin-left: auto;
-	margin-right: auto;
+    width: 80%;
+    max-width: 1280px;
+    min-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 .header {
-  position:absolute;/*absolute, fixed, relative, static, inherit*/
-  top:-500px;
-  left:0px;
+    position: absolute; /*absolute, fixed, relative, static, inherit*/
+    top: -500px;
+    left: 0px;
 }
+
 /*Макет*/
 .left, .right, .contents {
-	display: inline-block;
+    display: inline-block;
 }
+
 .left {
-	float: left;
-	width: 19%;
-	margin: 20px 10px 10px 0;
-	font-weight: bold;
-	font-size: 10pt;
+    float: left;
+    width: 15%;
+    margin: 20px 10px 10px 0;
+    font-weight: bold;
+    font-size: 10pt;
 }
+
 .right {
-	float: right;
-	width: 29%;
-	margin-top: 50px;
-	//margin: 50px 0 0 10px;
+    float: right;
+    width: 19.5%;
+    margin-top: 50px;
+/ / margin: 50 px 0 0 10 px;
 }
+
 .contents {
-	//margin-top: -110px;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50.3%;/* 635px оптимальный минимум для флеша*/
+/ / margin-top: - 110 px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 64%; /* 635px оптимальный минимум для флеша*/
 }
-.afisha {
+
+/*
+	.afisha {
 	margin-bottom: 200px;
 	height: 360px;
-}
-.afisha img {
+	}
+	.afisha img {
 	width: 260px;
-}
+	}
+*/
 /* Левое меню */
 .nav, .nav ul {
-  padding: 0;
+    padding: 0;
 }
-.nav, .nav ul {direction: rtl;}
+
+.nav, .nav ul {
+    direction: rtl;
+}
+
 .nav, .nav ul {
     list-style: none;
-    padding: 3;
+    padding: 3px;
 }
+
 .nav li {
-	font-size:63%;
+    font-size: 63%;
 }
+
 .nav li img {
-	-webkit-transition: all 1s ease;
-	-moz-transition: all 1s ease;
-	-o-transition: all 1s ease;
-	-ms-transition: all 1s ease;
-	transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
 }
+
 .nav li img:hover {
-	-webkit-filter: opacity(40%);
-	-moz-filter: opacity(40%);
-	filter: opacity(40%);
+    -webkit-filter: opacity(40%);
+    -moz-filter: opacity(40%);
+    filter: opacity(40%);
 }
+
 .active {
-	-webkit-filter: opacity(25%);
-	-moz-filter: opacity(25%);
-	filter: opacity(25%);
-	pointer-events: none;
-  cursor: default;
+    -webkit-filter: opacity(25%);
+    -moz-filter: opacity(25%);
+    filter: opacity(25%);
+    pointer-events: none;
+    cursor: default;
 }
+
 /* Правое меню */
 .navR, .navR ul {
-  list-style: none;
-  padding: 0;
+    list-style: none;
+    padding: 0;
 }
+
 .navR a {
-  display: block;
-  padding-left: 10px;
-  margin: 3px 0;
-	width: 70%;
-  text-decoration: none;
-  font-family: Arial, Helvetica, sans-serif;
-  font-variant: small-caps;
-  font-weight: bold;
-	Font-size: 10pt;
-	outline: none;
+    display: block;
+    padding-left: 10px;
+    margin: 3px 0;
+    width: 70%;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-weight: bold;
+    Font-size: 10pt;
+    outline: none;
 }
+
 .navR a:link, .navR a:visited {
-  //border-left: #3f3f3f solid 10px;
-	//border-left-color: #3f3f3f;
-	border-radius: 10px;
-	background-color: transparent;
-	-webkit-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
-	-moz-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
-	-o-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
-	transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
-  color: #3f3f3f;
-	outline: none;
+/ / border-left: #3f3f3f solid 10 px;
+/ / border-left-color: #3f3f3f;
+    border-radius: 10px;
+    background-color: transparent;
+    -webkit-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
+    -moz-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
+    -o-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
+    transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
+    color: #3f3f3f;
+    outline: none;
 }
+
 .navR a:hover, .navR a:active {
-  border-left-color: #fff;
-  background-color: #3f3f3f;
-  color: #fff;
-	outline: none;
+    border-left-color: #fff;
+    background-color: #3f3f3f;
+    color: #fff;
+    outline: none;
 }
+
 .navR a.verbergend {
-  pointer-events: none;
-  cursor: default;
-  border-left-color: #dfdfdf;
-  background-color: #dfdfdf;
-  color: #9f9f9f;
-	font-weight: normal;
-	outline: none;
+    pointer-events: none;
+    cursor: default;
+    border-left-color: #dfdfdf;
+    background-color: #dfdfdf;
+    color: #9f9f9f;
+    font-weight: normal;
+    outline: none;
 }
+
 .text_block {
-	display: none;
-	background-color: #3f3f3f;
+    display: none;
+    background-color: #3f3f3f;
 }
+
 .nav a:hover .text_block {
-	display: block;
+    display: block;
 }
+
+span.slaquo {
+    margin-left: 0.5em;
+}
+
+span.hlaquo {
+    margin-left: -0.5em;
+}
+
+span.sbrace {
+    margin-left: 0.25em;
+}
+
+span.hbrace {
+    margin-left: -0.25em;
+}
+
 .footer {
-	position:fixed;
-	left:8%;
-  right:10%;
-  bottom:0;
-	clear: both;
-	padding-bottom: 5px;
-	//height: 25px;
+    position: fixed;
+    left: 8%;
+    right: 10%;
+    bottom: 0;
+    clear: both;
+    padding-bottom: 5px;
+/ / height: 25 px;
 }
+
 .copy, .phone {
-	display: inline-block;
-	font-size:75%;
-	padding: 0 10px;
+    display: inline-block;
+    font-size: 75%;
+    padding: 0 10px;
 }
+
 .copy a {
-	display: block;
-	padding: 0 10px;
-	margin: 3px 0;
-	text-decoration: none;
-  font-family: Geneva, Arial, Helvetica, sans-serif;
-  //font-variant: small-caps;
-  //font-weight: bold;
+    display: block;
+    padding: 0 10px;
+    margin: 3px 0;
+    text-decoration: none;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+/ / font-variant: small-caps;
+/ / font-weight: bold;
 }
+
 .copy a:link, .copy a:visited {
-	border-radius: 10px;
-	background-color: transparent;
-	-webkit-transition: background-color 0.5s ease-out;
-	-moz-transition: background-color 0.5s ease-out;
-	-o-transition: background-color 0.5s ease-out;
-	transition: background-color 0.5s ease-out;
-  color: #3f3f3f;
+    border-radius: 10px;
+    background-color: transparent;
+    -webkit-transition: background-color 0.5s ease-out;
+    -moz-transition: background-color 0.5s ease-out;
+    -o-transition: background-color 0.5s ease-out;
+    transition: background-color 0.5s ease-out;
+    color: #3f3f3f;
 }
+
 .social {
-	float: right;
+    float: right;
 }
+
 #container {
-	display:inline-block;
-	vertical-align:bottom;
+    display: inline-block;
+    vertical-align: bottom;
 }
+
 .contact {
-	display:inline-block;
-	vertical-align:bottom;
-	width:24px;
-	height:24px;
-	//margin:0 20px 0px  0;
-	padding:0;
-	outline:none;
-	background:url(../img/icons.png) -144px 0 no-repeat;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 24px;
+    height: 24px;
+/ / margin: 0 20 px 0 px 0;
+    padding: 0;
+    outline: none;
+    background: url(../img/icons.png) -144px 0 no-repeat;
 }
+
 .vk {
-	display:inline-block;
-	vertical-align:bottom;
-	width:24px;
-	height:24px;
-	//margin:0 20px 0px  0;
-	padding:0;
-	outline:none;
-	background:url(../img/icons.png) -24px 0 no-repeat;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 24px;
+    height: 24px;
+/ / margin: 0 20 px 0 px 0;
+    padding: 0;
+    outline: none;
+    background: url(../img/icons.png) -24px 0 no-repeat;
 }
+
 .inst {
-	display:inline-block;
-	vertical-align:bottom;
-	width:24px;
-	height:24px;
-	//margin:0 20px 0px  0;
-	padding:0;
-	outline:none;
-	background:url(../img/icons.png) -0px 0 no-repeat;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 24px;
+    height: 24px;
+/ / margin: 0 20 px 0 px 0;
+    padding: 0;
+    outline: none;
+    background: url(../img/icons.png) -0px 0 no-repeat;
 }
+
 .face {
-	display: inline-block;
-	vertical-align: bottom;
-	width: 24px;
-	height: 24px;
-	//margin: 0 20px 0px  0;
-	padding: 0;
-	outline: none;
-	background: url(../img/icons.png) -48px 0 no-repeat
+    display: inline-block;
+    vertical-align: bottom;
+    width: 24px;
+    height: 24px;
+/ / margin: 0 20 px 0 px 0;
+    padding: 0;
+    outline: none;
+    background: url(../img/icons.png) -48px 0 no-repeat
 }
+
 /*_________________________*/
 a {
-Font-Family: ERASURE;
-Font-size: 10pt;
-color: BLACK;
+    Font-Family: ERASURE;
+    Font-size: 10pt;
+    color: BLACK;
 }
+
 a:link {
-Font-Family: ERASURE;
-Text-decoration: none;
-color: #111;
+    Font-Family: ERASURE;
+    Text-decoration: none;
+    color: #111;
 }
+
 a:visited {
-Font-Family: ERASURE;
-Text-decoration: none;
-color: #333;
+    Font-Family: ERASURE;
+    Text-decoration: none;
+    color: #333;
 }
+
 a:hover {
-Font-Family: ERASURE;
-Text-decoration: none;
-color: RED;
+    Font-Family: ERASURE;
+    Text-decoration: none;
+    color: RED;
 }
