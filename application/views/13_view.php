@@ -18,6 +18,5 @@
 			(window,document,'script','dataLayer','GTM-WZT556');
 		</script>
 		<!-- End Google Tag Manager -->
-	<center>
 	<iframe src="../../mus/13_pohod/index.html" width="100%" height="1200" frameborder="0"></iframe>
 </body>
