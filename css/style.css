@@ -13,7 +13,7 @@ body {
 .header {
     position: absolute; /*absolute, fixed, relative, static, inherit*/
     top: -500px;
-    left: 0px;
+    left: 0;
 }
 
 /*Макет*/
@@ -164,6 +164,13 @@ span.sbrace {
 
 span.hbrace {
     margin-left: -0.25em;
+}
+
+table {
+    margin: auto;
+}
+td {
+    text-align: center;
 }
 
 .footer {
