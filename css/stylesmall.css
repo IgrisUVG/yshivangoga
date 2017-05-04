@@ -9,7 +9,7 @@ body {
 .header {
   position:absolute;/*absolute, fixed, relative, static, inherit*/
   top:-500px;
-  left:0px;
+  left:0;
 }
 /*Макет*/
 .left, .right, .contents {
@@ -51,7 +51,7 @@ body {
 .nav, .nav ul {direction: rtl;}
 .nav, .nav ul {
     list-style: none;
-    padding: 3;
+    padding: 3px;
 }
 .nav li {
 	font-size:63%;
@@ -185,25 +185,4 @@ body {
 	padding: 0;
 	outline: none;
 	background: url(../img/icons.png) -48px 0 no-repeat
-}
-/*_________________________*/
-a {
-Font-Family: ERASURE;
-Font-size: 10pt;
-color: BLACK;
-}
-a:link {
-Font-Family: ERASURE;
-Text-decoration: none;
-color: #111;
-}
-a:visited {
-Font-Family: ERASURE;
-Text-decoration: none;
-color: #333;
-}
-a:hover {
-Font-Family: ERASURE;
-Text-decoration: none;
-color: RED;
 }
