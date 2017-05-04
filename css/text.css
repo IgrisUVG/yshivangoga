@@ -30,25 +30,25 @@ p {
     text-indent: 5em;
 }
 
-a {
+.maintext a {
     font-family: erasure;
     font-size: 12pt;
     color: black;
 }
 
-a:link {
+.maintext a:link {
     font-family: erasure;
     text-decoration: none;
     color: #111111;
 }
 
-a:visited {
+.maintext a:visited {
     font-family: erasure;
     text-decoration: none;
     color: #333333;
 }
 
-a:hover {
+.maintext a:hover {
     font-family: erasure;
     text-decoration: underline;
     color: #990000;

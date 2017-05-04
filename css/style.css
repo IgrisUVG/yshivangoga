@@ -112,8 +112,8 @@ body {
 }
 
 .navR a:link, .navR a:visited {
-/ / border-left: #3f3f3f solid 10 px;
-/ / border-left-color: #3f3f3f;
+  /*border-left: #3f3f3f solid 10 px;
+    border-left-color: #3f3f3f;*/
     border-radius: 10px;
     background-color: transparent;
     -webkit-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
