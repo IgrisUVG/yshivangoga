@@ -7,5 +7,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WZT556');</script>
 <!-- End Google Tag Manager -->
-<center>
-<iframe src="../../mus/alb/uhim3.html" width="100%" height="1470" frameborder="0"></iframe>
+<iframe src="/mus/3_dushambe/index.html" width="100%" height="1470" frameborder="0"></iframe>
