@@ -1,6 +1,13 @@
 ﻿<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/uhvg/stwhite.css">
+    <link href="/css/player.blue/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="/js/jplayer/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jplayer/jquery.jplayer.min.js"></script>
+    <script type="text/javascript" src="/js/jplayer/jplayer.playlist.min.js"></script>
+</head>
 <body>
-<table align=center style="WIDTH: 391px; HEIGHT: 420px">
+<table align=center>
     <tr>
         <td>
             <p align=center>
@@ -15,23 +22,53 @@
     <tr>
         <td>
             <br>
-            <p align=center>
-                <object id="Object1" type="application/x-shockwave-flash" data="player_mp3_multi.swf" width="250"
-                        height="211">
-                    <noscript><a href="http://www.java.com">Install or enable JAVA</a></noscript>
-                    <param name="movie" value="player_mp3_multi.swf"/>
-                    <param name="wmode" value="opaque"/>
-                    <param name="autoplay" value="true"/>
-                    <param name="autoload" value="true"/>
-                    <param name="FlashVars" value="config=1_01.txt"/>
-                </object>
-            </p>
-        </td>
+            <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+            <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+                <div class="jp-type-playlist">
+                    <div class="jp-gui jp-interface">
+                        <div class="jp-controls">
+                            <button class="jp-previous" role="button" tabindex="0">previous</button>
+                            <button class="jp-play" role="button" tabindex="0">play</button>
+                            <button class="jp-next" role="button" tabindex="0">next</button>
+                            <button class="jp-stop" role="button" tabindex="0">stop</button>
+                        </div>
+                        <div class="jp-progress">
+                            <div class="jp-seek-bar">
+                                <div class="jp-play-bar"></div>
+                            </div>
+                        </div>
+                        <div class="jp-volume-controls">
+                            <button class="jp-mute" role="button" tabindex="0">mute</button>
+                            <button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+                            <div class="jp-volume-bar">
+                                <div class="jp-volume-bar-value"></div>
+                            </div>
+                        </div>
+                        <div class="jp-time-holder">
+                            <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+                            <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+                        </div>
+                        <div class="jp-toggles">
+                            <button class="jp-repeat" role="button" tabindex="0">repeat</button>
+                            <button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+                        </div>
+                    </div>
+                    <div class="jp-playlist">
+                        <ul>
+                            <li>&nbsp;</li>
+                        </ul>
+                    </div>
+                    <div class="jp-no-solution">
+                        <span>Update Required</span>
+                        To play the media you will need to either update your browser to a recent version or update your
+                        <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                    </div>
+                </div>
+            </div>
     </tr>
 </table>
 <p>&nbsp;</p>
-
-<table align="center" cellspacing="2" cellpadding="2" border="0">
+<table align="center">
     <tr>
         <td align="center">
             <strong>Илья Гришунин -</strong> гитары, бас, гусли, кларнет, флейта,<br>перкуссия, варган, линейка
@@ -56,10 +93,9 @@
 <br>
 <table align=right>
     <tr>
-        <td>©<em>1997 Обувная фабрика
-            им.Капранова</em></td>
+        <td>©<em>1997 Обувная фабрика им.Капранова</em></td>
     </tr>
-
 </table>
 </body>
 </html>
+<script type="text/javascript" src="playlist_1.min.js"></script>
