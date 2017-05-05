@@ -18,6 +18,5 @@
 			(window,document,'script','dataLayer','GTM-WZT556');
 		</script>
 		<!-- End Google Tag Manager -->
-<center>
 <iframe src="../../img/shokolad/index.html" width="100%" height="900" frameborder="0"></iframe>
 </body>
