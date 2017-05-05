@@ -1,106 +1,136 @@
 ﻿<html>
 <head>
-    <title>Музыка группы "Уши Ван Гога"</title>
-    <META NAME="keywords" CONTENT="music, музыка, Уши Ван Гога, mp3, НЕСУСВЕТ, Душа Мбе">
-    <META NAME="description" CONTENT="Музыка группы Уши Ван Гога">
-    <link rel="stylesheet" type="text/css" href="../../uhvg/stwhite.css">
+    <link rel="stylesheet" type="text/css" href="/uhvg/stwhite.css">
+    <link href="/css/player.blue/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="/js/jplayer/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jplayer/jquery.jplayer.min.js"></script>
+    <script type="text/javascript" src="/js/jplayer/jplayer.playlist.min.js"></script>
 </head>
-<body background="" bgcolor="#ffffff" text="#111111">
+<body>
 <table align=center>
     <tr>
         <td>
-            <P align=center>
+            <p align=center>
                 <iframe src="img/slider.html"
                         style="width:410px;height:420px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;"
                         marginheight="0" marginwidth="0"></iframe>
-            </P>
+            </p>
         </td>
     </tr>
 </table>
 <table align=center>
     <tr>
         <td>
-            <BR>
-            <P align=center>
-                <object id="Object1" type="application/x-shockwave-flash" data="player_mp3_multi.swf" width="250"
-                        height="195">
-                    <noscript><a href="http://www.java.com">Install or enable JAVA</a></noscript>
-                    <param name="movie" value="player_mp3_multi.swf"/>
-                    <param name="wmode" value="opaque"/>
-                    <param name="autoplay" value="true"/>
-                    <param name="autoload" value="true"/>
-                    <param name="FlashVars" value="config=6_01.txt"/>
-                </object>
-            </P>
-        </td>
+            <br>
+            <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+            <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+                <div class="jp-type-playlist">
+                    <div class="jp-gui jp-interface">
+                        <div class="jp-controls">
+                            <button class="jp-previous" role="button" tabindex="0">previous</button>
+                            <button class="jp-play" role="button" tabindex="0">play</button>
+                            <button class="jp-next" role="button" tabindex="0">next</button>
+                            <button class="jp-stop" role="button" tabindex="0">stop</button>
+                        </div>
+                        <div class="jp-progress">
+                            <div class="jp-seek-bar">
+                                <div class="jp-play-bar"></div>
+                            </div>
+                        </div>
+                        <div class="jp-volume-controls">
+                            <button class="jp-mute" role="button" tabindex="0">mute</button>
+                            <button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+                            <div class="jp-volume-bar">
+                                <div class="jp-volume-bar-value"></div>
+                            </div>
+                        </div>
+                        <div class="jp-time-holder">
+                            <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+                            <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+                        </div>
+                        <div class="jp-toggles">
+                            <button class="jp-repeat" role="button" tabindex="0">repeat</button>
+                            <button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+                        </div>
+                    </div>
+                    <div class="jp-playlist">
+                        <ul>
+                            <li>&nbsp;</li>
+                        </ul>
+                    </div>
+                    <div class="jp-no-solution">
+                        <span>Update Required</span>
+                        To play the media you will need to either update your browser to a recent version or update your
+                        <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                    </div>
+                </div>
+            </div>
     </tr>
 </table>
-<P>&nbsp;</P>
+<p>&nbsp;</p>
 <table align=center>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG> Сергей Капранов</STRONG>&nbsp;-
-                <EM>тексты, музыка, гитара</EM></P></td>
+            <p align=center>
+                <strong> Сергей Капранов</strong>&nbsp;- <em>тексты, музыка, гитара</em>
+            </p>
+        </td>
     </tr>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG>Игорь Бычков</STRONG>&nbsp;-
-                <EM>вокал</EM></P></td>
+            <p align=center>
+                <strong>Игорь Бычков</strong>&nbsp;- <em>вокал</em>
+            </p>
+        </td>
     </tr>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG>Виталий Левитан</STRONG>&nbsp;-
-                <EM>губная гармошка, акустическая гитара; звукорежиссура, сведение, мастеринг</EM>&nbsp;</P></td>
+            <p align=center>
+                <strong>Виталий Левитан</strong>&nbsp;- <em>губная гармошка, акустическая гитара; звукорежиссура,
+                сведение, мастеринг</em>
+            </p>
+        </td>
     </tr>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG>Инна Капранова</STRONG>&nbsp;-
-                <EM>вокал</EM>
-                <EM>&nbsp;</EM></P></td>
+            <p align=center>
+                <strong>Инна Капранова</strong>&nbsp;- <em>вокал</em>
+            </p>
+        </td>
     </tr>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG>Юрий Караманенко</STRONG>&nbsp;-
-                <EM>корнет</EM>&nbsp;</P></td>
+            <p align=center>
+                <strong>Юрий Караманенко</strong>&nbsp;- <em>корнет</em>
+            </p>
+        </td>
     </tr>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG>Олег Кулешов</STRONG>&nbsp;-
-                <EM>барабаны, подпевки</EM>&nbsp;</P></td>
+            <p align=center>
+                <strong>Олег Кулешов</strong>&nbsp;- <em>барабаны, подпевки</em>
+            </p>
+        </td>
     </tr>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG>Илья Гришунин</STRONG>&nbsp;-
-                <EM>клавиши, акустическая гитара, окарина</EM>&nbsp;</P></td>
+            <p align=center>
+                <strong>Илья Гришунин</strong>&nbsp;- <em>клавиши, акустическая гитара, окарина</em>
+            </p>
+        </td>
     </tr>
     <tr>
         <td>
-            <P align=center>
-
-                <STRONG>Сергей Ситников</STRONG>&nbsp;-
-                <EM>бас</EM>
-                <EM>&nbsp;</EM></P></td>
+            <p align=center>
+                <strong>Сергей Ситников</strong>&nbsp;- <em>бас</em>
+            </p>
+        </td>
     </tr>
 </table>
-<P>&nbsp;</P>
-<DIV align=center>
-
-    <EM>© Произведено в 2004 году по заказу Концерна "Группа СОЮЗ"</EM>.
-</DIV>
-<P>&nbsp;</P>
+<p>&nbsp;</p>
+<div align=center>
+    <em>© Произведено в 2004 году по заказу Концерна &laquo;Группа СОЮЗ&raquo;</em>.
+</div>
 </body>
 </html>
+<script type="text/javascript" src="playlist_6.min.js"></script>
