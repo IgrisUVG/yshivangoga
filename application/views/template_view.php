@@ -3,7 +3,7 @@
 <html>
 <head>
     <?php
-    require('/data/head.php');
+    require('data/head.php');
     ?>
 </head>
 <body>
@@ -34,18 +34,18 @@
 </div>
 <div class="left">
     <?php
-    require('/data/menuLOld.php');
+    require('data/menuLOld.php');
     ?>
 </div><!--Конец левого бара-->
 <div class="right">
     <?php
-    require('/data/afisha.php');
-    require('/data/menuR.php');
+    require('data/afisha.php');
+    require('data/menuR.php');
     ?>
 </div><!--Конец правого бара-->
 <div class="footer">
     <?php
-    require('/data/footer.php');
+    require('data/footer.php');
     ?>
 </div><!--Конец футера-->
 </body>
