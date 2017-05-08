@@ -11,4 +11,4 @@
 <link href="/css/menuLstyle.css" rel="stylesheet" type="text/css" />
 <link href="/css/stylesmall.css" rel="stylesheet" media="(max-width:801px)"/>
 <link href="/css/text.css" rel="stylesheet" type="text/css"/>
-<link href="uho_m.png" rel="icon" type="image/png" />
+<link href="uho_m.png" rel="icon" type="image/png"/>
