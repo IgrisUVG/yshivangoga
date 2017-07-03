@@ -7,6 +7,7 @@
 		<li>2008<br><a href="/9" <?=$_SERVER['REQUEST_URI'] == '/9' ? 'class="active"':''?>><IMG height=128 alt="Чистая грязь" src="img/gif/alb/graz_m.gif" border=0></a></li>
 		<li>2007<br><a href="/8" <?=$_SERVER['REQUEST_URI'] == '/8' ? 'class="active"':''?>><IMG height=128 alt="Vincent" src="img/gif/alb/vincent_m.gif" border=0></a></li>
 		<li>2006<br><a href="/7" <?=$_SERVER['REQUEST_URI'] == '/7' ? 'class="active"':''?>><IMG height=128 alt="Екнеклика" src="img/gif/alb/ekneklika_m.gif" border=0></a></li>
+	  	<li>2004<br><a href="/6a" <?=$_SERVER['REQUEST_URI'] == '/6a' ? 'class="active"':''?>><IMG height=128 alt="Свадьбульба" src="img/gif/alb/swad_m.gif" border=0></a></li>
 		<li>2004<br><a href="/6" <?=$_SERVER['REQUEST_URI'] == '/6' ? 'class="active"':''?>><IMG height=128 alt="Бравшие Мудандзян" src="img/gif/alb/mudan_m.gif" border=0></a></li>
 		<li>2003<br><a href="/5" <?=$_SERVER['REQUEST_URI'] == '/5' ? 'class="active"':''?>><IMG height=128 alt="Цветочки" src="img/gif/alb/zvet_fas_m.gif" border=0></a></li>
 		<li>2000<br><a href="/4" <?=$_SERVER['REQUEST_URI'] == '/4' ? 'class="active"':''?>><IMG height=128 alt="Несусвет" src="img/gif/alb/nessv.gif" border=0></a></li>

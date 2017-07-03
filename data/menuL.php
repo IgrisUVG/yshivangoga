@@ -21,6 +21,9 @@
         <a href="/6" <?= $_SERVER['REQUEST_URI'] == '/6' ? 'class="active"' : '' ?>>
             <IMG height=128 alt="Бравшие Мудандзян" src="/img/gif/alb/mudan_m.gif">
         </a>
+        <a href="/6a" <?= $_SERVER['REQUEST_URI'] == '/6a' ? 'class="active"' : '' ?>>
+            <IMG height=128 alt="Свадьбульба" src="/img/gif/alb/swad_m.gif">
+        </a>
         <a href="/5" <?= $_SERVER['REQUEST_URI'] == '/5' ? 'class="active"' : '' ?>>
             <IMG height=128 alt="Цветочки" src="/img/gif/alb/zvet_fas_m.gif">
         </a>
