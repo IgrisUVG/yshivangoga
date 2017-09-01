@@ -10,6 +10,12 @@ body {
     margin-right: auto;
 }
 
+.header {
+    position: absolute; /*absolute, fixed, relative, static, inherit*/
+    top: -500px;
+    left: 0;
+}
+
 /*Макет*/
 .left, .right, .contents {
     display: inline-block;

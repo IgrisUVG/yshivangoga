@@ -108,7 +108,7 @@ function makeScrollable(wrapper, scrollable) {
                 }
             }
         }, 200);
-
+        
         // Скрываем подсказку, когда курсор мыши покидает меню
         wrapper.mouseleave(function () {
             lastTarget = false;

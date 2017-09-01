@@ -1,5 +1,5 @@
 function showContent(link) {
-
+    
     var cont = document.getElementById('contentBody');
     var loading = document.getElementById('loading');
 
