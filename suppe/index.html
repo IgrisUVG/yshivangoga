@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Suppe</title>
+    <link type="text/css" rel="stylesheet" href="suppe.css"/>
+</head>
+<body>
+<div id="wrap" align="center">
+    <form name="transfer_form">
+        <input id="but" type="button" value="?" onclick="findSuppe()">
+        <br>
+        <div id="main">
+            <b><span id="res"></span></b><br>
+        </div>
+    </form>
+</div>
+<script>
+    var suppe = [
+        'Харчо',
+        'Борщ',
+        'Щи',
+        'Кислые щи',
+        'Картофельный',
+        'Овощной',
+        'Щавелевый',
+        'Рассольник',
+        'Солянка',
+        'Гречневый',
+        'Гороховый',
+        'Грибной',
+        'Рыбный',
+        'С фрикадельками',
+				'Куриный'
+    ];
+    function findSuppe() {
+        var min = 1, max = suppe.length;
+        var i = ((Math.floor(Math.random() * (max - min + 1)) + min)) - 1;
+        document.getElementById('res').innerHTML = suppe[i];
+    }
+</script>
+</body>
+</html>
