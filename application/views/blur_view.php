@@ -1,4 +1,3 @@
-<body>
 <!-- Google Tag Manager -->
 <noscript>
     <iframe
@@ -20,5 +19,6 @@
     (window, document, 'script', 'dataLayer', 'GTM-WZT556');
 </script>
 <!-- End Google Tag Manager -->
-<iframe src="../../img/blur/index.html" width="100%" height="900" frameborder="0"></iframe>
-</body>
+<div class="gallerie">
+    <iframe src="../../img/blur/index.html"></iframe>
+</div>

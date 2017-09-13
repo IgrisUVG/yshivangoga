@@ -33,14 +33,20 @@ body {
     float: right;
     width: 19.5%;
     margin-top: 50px;
-/ / margin: 50 px 0 0 10 px;
+    /*margin: 50 px 0 0 10 px;*/
 }
 
 .contents {
-/ / margin-top: - 110 px;
+    /*margin-top: - 110 px;*/
     margin-left: auto;
     margin-right: auto;
     width: 64%; /* 635px оптимальный минимум для флеша*/
+}
+
+.gallerie iframe {
+    width: 100%;
+    height: 900px;
+    border: 0;
 }
 
 /*
@@ -112,8 +118,8 @@ body {
 }
 
 .navR a:link, .navR a:visited {
-  /*border-left: #3f3f3f solid 10 px;
-    border-left-color: #3f3f3f;*/
+    /*border-left: #3f3f3f solid 10 px;
+      border-left-color: #3f3f3f;*/
     border-radius: 10px;
     background-color: transparent;
     -webkit-transition: background-color 0.3s ease-out, border-left-color 0.3s ease-out;
@@ -169,6 +175,7 @@ span.hbrace {
 table {
     margin: auto;
 }
+
 td {
     text-align: center;
 }
