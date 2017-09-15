@@ -138,7 +138,7 @@
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     /*behavior: url(js/border-radius.htc);*/
-    background: #696a6c/*url("gradient_style-1-bg.png") repeat-x top*/;
+    background: #696a6c /*url("gradient_style-1-bg.png") repeat-x top*/;
     -o-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -webkit-background-size: 100% 100%;
@@ -366,4 +366,10 @@
     border-bottom-style: none;
     border-left-style: none;
     width: 312px;
+}
+
+@media only screen and (max-width: 600px) {
+    #wrapper {
+        width: 100%;
+    }
 }
