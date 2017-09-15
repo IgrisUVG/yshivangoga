@@ -30,7 +30,7 @@
     </div>
 </div>
 <script>$(document).ready(function () {
-    new RTPlayer(1, 60, 0, "http://radio.yshivangoga.ru", "mp3", {"mp3": "http://radio.yshivangoga.ru/radio"}, "ru")
+    new RTPlayer(1, 60, 0, "http://radio.yshivangoga.ru", "mp3", {"mp3": "http://radio.yshivangoga.ru/mp3128"}, "ru")
 });
 </script>
 <script>
@@ -48,9 +48,9 @@
             dataType: 'jsonp',
             success: function (json) {
                 // this is the element we're updating that will hold the track title
-                $('#track-title').text(json['/radio']['title']);
+                $('#track-title').text(json['/mp3128']['title']);
                 // this is the element we're updating that will hold the listeners count
-                $('#listeners').text(json['/radio']['listeners']);
+                $('#listeners').text(json['/mp3128']['listeners']);
             },
             error: function (e) {
                 console.log(e.message);
