@@ -372,4 +372,8 @@
     #wrapper {
         width: 100%;
     }
+
+    #infa, .rtplwrapperForIe {
+        margin: 0 auto;
+    }
 }
