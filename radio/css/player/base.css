@@ -368,7 +368,7 @@
     width: 312px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
     #wrapper {
         width: 100%;
     }
