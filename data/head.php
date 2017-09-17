@@ -1,5 +1,6 @@
 <title>УШИ ВАН ГОГА || ОФИЦИАЛЬНЫЙ САЙТ</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="icon" href="uho_m.png" type="image/png"/>
 <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script type="text/javascript" src="/js/menu.js"></script>
