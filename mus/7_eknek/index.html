@@ -1,7 +1,9 @@
 ﻿<html>
 <head>
-    <link rel="stylesheet" type="text/css" href="/uhvg/stwhite.css">
-    <link href="/css/player.blue/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css"/>
+    <!--<link rel="stylesheet" type="text/css" href="/uhvg/stwhite.css">-->
+    <link rel="stylesheet" type="text/css" href="/css/mus.css">
+    <link rel="stylesheet" href="img/slider.css"> <!-- НЕ slider.min.css  -->
+    <link href="/css/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css"/>
     <script type="text/javascript" src="/js/jplayer/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jplayer/jquery.jplayer.min.js"></script>
     <script type="text/javascript" src="/js/jplayer/jplayer.playlist.min.js"></script>
@@ -16,162 +18,140 @@
     </style>
 </head>
 <body>
-<table align=center>
-    <tr>
-        <td>
-            <p align=center>
-                <iframe src="img/slider.html"
-                        style="width:410px;height:420px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;"
-                        marginheight="0" marginwidth="0"></iframe>
-            </p>
-        </td>
-    </tr>
-</table>
-<table align=center>
-    <tr>
-        <td>
-            <br>
-            <div id="jquery_jplayer_1" class="jp-jplayer"></div>
-            <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
-                <div class="jp-type-playlist">
-                    <div class="jp-gui jp-interface">
-                        <div class="jp-controls">
-                            <button class="jp-previous" role="button" tabindex="0">previous</button>
-                            <button class="jp-play" role="button" tabindex="0">play</button>
-                            <button class="jp-next" role="button" tabindex="0">next</button>
-                            <button class="jp-stop" role="button" tabindex="0">stop</button>
-                        </div>
-                        <div class="jp-progress">
-                            <div class="jp-seek-bar">
-                                <div class="jp-play-bar"></div>
-                            </div>
-                        </div>
-                        <div class="jp-volume-controls">
-                            <button class="jp-mute" role="button" tabindex="0">mute</button>
-                            <button class="jp-volume-max" role="button" tabindex="0">max volume</button>
-                            <div class="jp-volume-bar">
-                                <div class="jp-volume-bar-value"></div>
-                            </div>
-                        </div>
-                        <div class="jp-time-holder">
-                            <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
-                            <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
-                        </div>
-                        <div class="jp-toggles">
-                            <button class="jp-repeat" role="button" tabindex="0">repeat</button>
-                            <button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+<div id="wrapper">
+    <div class='csslider1 autoplay '>
+        <input name="cs_anchor1" id='cs_slide1_0' type="radio" class='cs_anchor slide'>
+        <input name="cs_anchor1" id='cs_slide1_1' type="radio" class='cs_anchor slide'>
+        <input name="cs_anchor1" id='cs_slide1_2' type="radio" class='cs_anchor slide'>
+        <input name="cs_anchor1" id='cs_slide1_3' type="radio" class='cs_anchor slide'>
+        <input name="cs_anchor1" id='cs_play1' type="radio" class='cs_anchor' checked>
+        <input name="cs_anchor1" id='cs_pause1' type="radio" class='cs_anchor'>
+        <ul>
+            <div style="width: 100%; visibility: hidden; font-size: 0; line-height: 0;">
+                <img src="img/ekneklika.jpg" style="width: 100%;">
+            </div>
+            <li class='num0 img'>
+                <img src='img/ekneklika.jpg'/>
+            </li>
+            <li class='num1 img'>
+                <img src='img/ekneklikaz.jpg'/>
+            </li>
+            <li class='num2 img'>
+                <img src='img/ekneklikazz1.jpg'/>
+            </li>
+            <li class='num3 img'>
+                <img src='img/ekneklikazz2.jpg'/>
+            </li>
+
+        </ul>
+        <div class='cs_arrowprev'>
+            <label class='num0' for='cs_slide1_0'></label>
+            <label class='num1' for='cs_slide1_1'></label>
+            <label class='num2' for='cs_slide1_2'></label>
+            <label class='num3' for='cs_slide1_3'></label>
+        </div>
+        <div class='cs_arrownext'>
+            <label class='num0' for='cs_slide1_0'></label>
+            <label class='num1' for='cs_slide1_1'></label>
+            <label class='num2' for='cs_slide1_2'></label>
+            <label class='num3' for='cs_slide1_3'></label>
+        </div>
+    </div>
+    <div id="album">
+        <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+        <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+            <div class="jp-type-playlist">
+                <div class="jp-gui jp-interface">
+                    <div class="jp-controls">
+                        <button class="jp-previous" role="button" tabindex="0">previous</button>
+                        <button class="jp-play" role="button" tabindex="0">play</button>
+                        <button class="jp-next" role="button" tabindex="0">next</button>
+                        <button class="jp-stop" role="button" tabindex="0">stop</button>
+                    </div>
+                    <div class="jp-progress">
+                        <div class="jp-seek-bar">
+                            <div class="jp-play-bar"></div>
                         </div>
                     </div>
-                    <div class="jp-playlist">
-                        <ul>
-                            <li>&nbsp;</li>
-                        </ul>
+                    <div class="jp-volume-controls">
+                        <button class="jp-mute" role="button" tabindex="0">mute</button>
+                        <button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+                        <div class="jp-volume-bar">
+                            <div class="jp-volume-bar-value"></div>
+                        </div>
                     </div>
-                    <div class="jp-no-solution">
-                        <span>Update Required</span>
-                        To play the media you will need to either update your browser to a recent version or update your
-                        <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                    <div class="jp-time-holder">
+                        <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+                        <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+                    </div>
+                    <div class="jp-toggles">
+                        <button class="jp-repeat" role="button" tabindex="0">repeat</button>
+                        <button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
                     </div>
                 </div>
+                <div class="jp-playlist">
+                    <ul>
+                        <li>&nbsp;</li>
+                    </ul>
+                </div>
+                <div class="jp-no-solution">
+                    <span>Update Required</span>
+                    To play the media you will need to either update your browser to a recent version or update
+                    your
+                    <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                </div>
             </div>
-    </tr>
-</table>
-<p>&nbsp;</p>
-<table align=center>
-    <tr>
-        <td>
-            <p align=center>
+        </div>
+    </div>
+    <div id="descript">
+        <div class="mains">
+            <p>
                 <strong> Сергей Капранов</strong>&nbsp;- <em>концепция, гитара, виолончель, тот ещё вокал, тексты,
                 музыка</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Игорь Бычков</strong>&nbsp;- <em>правильный вокал</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Сергей Гоппен</strong>&nbsp;- <em>мужской вокал</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Инна Капранова</strong>&nbsp;- <em>женский вокал</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Сергей Ситников</strong>&nbsp;- <em>бас, совсем другой вокал</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Веруня Ситникова</strong>&nbsp;- <em>детский вокал</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Илья Гришунин</strong>&nbsp;- <em>клавиши</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
-                <strong>Виталий Левитан</strong>&nbsp;- <em>сэмплы, гитара, виолончель, губная гармошка, сведение</em>
+            <p>
+                <strong>Виталий Левитан</strong>&nbsp;- <em>сэмплы, гитара, виолончель, губная гармошка,
+                сведение</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Олег Кулешов</strong>&nbsp;- <em>барабаны</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Сергей Васильев</strong>&nbsp;- <em>гитара с прибамбасом</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Юрий Караманенко</strong>&nbsp;- <em>корнет</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Кот Муль / бывшая Муля</strong>&nbsp;- <em>соло на клаве</em>
             </p>
-        </td>
-    </tr>
-</table>
-<p>&nbsp;</p>
-<div align=center>
-    <em>Запись осуществлена в 2005 году<br>
-        в домашней студии Виталия Левитана<br>
-        и закончена 31 декабря того же года.
-    </em>
+        </div>
+        <div class="prod">
+            <em>Запись осуществлена в 2005 году<br>
+                в домашней студии Виталия Левитана<br>
+                и закончена 31 декабря того же года.
+            </em>
+        </div>
+    </div>
 </div>
-<p>&nbsp;</p>
+<script type="text/javascript" src="playlist_7.min.js"></script>
 </body>
 </html>
-<script type="text/javascript" src="playlist_7.min.js"></script>
