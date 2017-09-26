@@ -1,158 +1,130 @@
 ﻿<html>
 <head>
-    <link rel="stylesheet" type="text/css" href="/uhvg/stwhite.css">
-    <link href="/css/player.blue/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css"/>
+    <!--<link rel="stylesheet" type="text/css" href="/uhvg/stwhite.css">-->
+    <link rel="stylesheet" type="text/css" href="/css/mus.css">
+    <link rel="stylesheet" href="img/slider.css"> <!-- НЕ slider.min.css  -->
+    <link href="/css/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css"/>
     <script type="text/javascript" src="/js/jplayer/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jplayer/jquery.jplayer.min.js"></script>
     <script type="text/javascript" src="/js/jplayer/jplayer.playlist.min.js"></script>
 </head>
 <body>
-<table align=center>
-    <tr>
-        <td>
-            <p align=center>
-                <iframe src="img/slider.html"
-                        style="width:410px;height:420px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;"
-                        marginheight="0" marginwidth="0"></iframe>
-            </p>
-        </td>
-    </tr>
-</table>
-<table align=center>
-    <tr>
-        <td>
-            <br>
-            <div id="jquery_jplayer_1" class="jp-jplayer"></div>
-            <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
-                <div class="jp-type-playlist">
-                    <div class="jp-gui jp-interface">
-                        <div class="jp-controls">
-                            <button class="jp-previous" role="button" tabindex="0">previous</button>
-                            <button class="jp-play" role="button" tabindex="0">play</button>
-                            <button class="jp-next" role="button" tabindex="0">next</button>
-                            <button class="jp-stop" role="button" tabindex="0">stop</button>
-                        </div>
-                        <div class="jp-progress">
-                            <div class="jp-seek-bar">
-                                <div class="jp-play-bar"></div>
-                            </div>
-                        </div>
-                        <div class="jp-volume-controls">
-                            <button class="jp-mute" role="button" tabindex="0">mute</button>
-                            <button class="jp-volume-max" role="button" tabindex="0">max volume</button>
-                            <div class="jp-volume-bar">
-                                <div class="jp-volume-bar-value"></div>
-                            </div>
-                        </div>
-                        <div class="jp-time-holder">
-                            <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
-                            <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
-                        </div>
-                        <div class="jp-toggles">
-                            <button class="jp-repeat" role="button" tabindex="0">repeat</button>
-                            <button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+<div id="wrapper">
+    <div class='csslider1 autoplay '>
+        <input name="cs_anchor1" id='cs_slide1_0' type="radio" class='cs_anchor slide'>
+        <input name="cs_anchor1" id='cs_slide1_1' type="radio" class='cs_anchor slide'>
+        <input name="cs_anchor1" id='cs_play1' type="radio" class='cs_anchor' checked>
+        <input name="cs_anchor1" id='cs_pause1' type="radio" class='cs_anchor'>
+        <ul>
+            <div style="width: 100%; visibility: hidden; font-size: 0; line-height: 0;">
+                <img src="img/vd.jpg" style="width: 100%;">
+            </div>
+            <li class='num0 img'>
+                <img src='img/vd.jpg'/>
+            </li>
+            <li class='num1 img'>
+                <img src='img/vdzz.jpg'/>
+            </li>
+        </ul>
+        <a class="cs_lnk" href="http://cssslider.com">image slider</a>
+        <div class='cs_arrowprev'>
+            <label class='num0' for='cs_slide1_0'></label>
+            <label class='num1' for='cs_slide1_1'></label>
+        </div>
+        <div class='cs_arrownext'>
+            <label class='num0' for='cs_slide1_0'></label>
+            <label class='num1' for='cs_slide1_1'></label>
+        </div>
+
+    </div>
+    <div id="album">
+        <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+        <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+            <div class="jp-type-playlist">
+                <div class="jp-gui jp-interface">
+                    <div class="jp-controls">
+                        <button class="jp-previous" role="button" tabindex="0">previous</button>
+                        <button class="jp-play" role="button" tabindex="0">play</button>
+                        <button class="jp-next" role="button" tabindex="0">next</button>
+                        <button class="jp-stop" role="button" tabindex="0">stop</button>
+                    </div>
+                    <div class="jp-progress">
+                        <div class="jp-seek-bar">
+                            <div class="jp-play-bar"></div>
                         </div>
                     </div>
-                    <div class="jp-playlist">
-                        <ul>
-                            <li>&nbsp;</li>
-                        </ul>
+                    <div class="jp-volume-controls">
+                        <button class="jp-mute" role="button" tabindex="0">mute</button>
+                        <button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+                        <div class="jp-volume-bar">
+                            <div class="jp-volume-bar-value"></div>
+                        </div>
                     </div>
-                    <div class="jp-no-solution">
-                        <span>Update Required</span>
-                        To play the media you will need to either update your browser to a recent version or update your
-                        <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                    <div class="jp-time-holder">
+                        <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+                        <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+                    </div>
+                    <div class="jp-toggles">
+                        <button class="jp-repeat" role="button" tabindex="0">repeat</button>
+                        <button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
                     </div>
                 </div>
+                <div class="jp-playlist">
+                    <ul>
+                        <li>&nbsp;</li>
+                    </ul>
+                </div>
+                <div class="jp-no-solution">
+                    <span>Update Required</span>
+                    To play the media you will need to either update your browser to a recent version or update
+                    your
+                    <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                </div>
             </div>
-    </tr>
-</table>
-<p>&nbsp;</p>
-<table align=center>
-    <tr>
-        <td>
-            <p align=center>
+        </div>
+    </div>
+    <div id="descript">
+        <div class="mains">
+            <p>
                 <strong> Сергей Капранов</strong>&nbsp;- <em>сочинитель песен, гитара</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Игорь Бычков</strong>&nbsp;- <em>вокал (1, 2, 3, 4, 6, 8, 9, 11, 13)</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Тома Амот</strong>&nbsp;- <em>вокал (5, 7, 12)</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Сергей Ситников</strong>&nbsp;- <em>бас, вокал (10), задний вокал</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Сергей Наумкин</strong>&nbsp;- <em>вокал (5)</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Илья Гришунин</strong>&nbsp;- <em>сакс, кларнет, клавиши</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Сергей Васильев</strong>&nbsp;- <em>гитара (1, 3, 9, 11, 13)</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Владимир Карманный</strong>&nbsp;- <em>барабаны</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Андрей Метелин</strong>&nbsp;- <em>гитара (2), сэмплы</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Елена Галиулина (Мелентьева)</strong>&nbsp;- <em>флейта (4, 11)</em>
             </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p align=center>
+            <p>
                 <strong>Евгения Иншакова</strong>&nbsp;-<em> скрипка (5, 8, 12)</em>
             </p>
-        </td>
-    </tr>
-</table>
-<p>&nbsp;</p>
-<div align=center>
-    <em>Записано и сведено в студии &laquo;FM Division&raquo; в 2012 г.
-    </em>.
+        </div>
+        <div class="prod">
+            <em>Записано и сведено в студии &laquo;FM Division&raquo; в 2012 г.
+            </em>.
+        </div>
+    </div>
 </div>
-<p>&nbsp;</p>
 </body>
 </html>
 <script type="text/javascript" src="playlist_10.min.js"></script>
