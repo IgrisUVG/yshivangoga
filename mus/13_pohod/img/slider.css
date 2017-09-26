@@ -545,11 +545,11 @@
 .csslider1:hover > .cs_arrowprev,
 .csslider1:hover > .cs_arrownext,
 .csslider1:hover > .cs_play_pause {
-    -webkit-transform: scale(1) rotate(0);
-    -moz-transform: scale(1) rotate(0);
-    -ms-transform: scale(1) rotate(0);
-    -o-transform: scale(1) rotate(0);
-    transform: scale(1) rotate(0);
+    -webkit-transform: scale(1) rotate(0deg);
+    -moz-transform: scale(1) rotate(0deg);
+    -ms-transform: scale(1) rotate(0deg);
+    -o-transform: scale(1) rotate(0deg);
+    transform: scale(1) rotate(0deg);
 
 }
 
@@ -775,9 +775,11 @@
 }
 
 /* hide description & bullets on mobile devices */
+/*
 @media only screen and (max-width: 480px), only screen and (-webkit-max-device-pixel-ratio: 2)      and (max-width: 480px), only screen and (   max--moz-device-pixel-ratio: 2)      and (max-width: 480px), only screen and (     -o-max-device-pixel-ratio: 2/1)    and (max-width: 480px), only screen and (        max-device-pixel-ratio: 2)      and (max-width: 480px), only screen and (                max-resolution: 192dpi) and (max-width: 480px), only screen and (                max-resolution: 2dppx)  and (max-width: 480px) {
     .csslider1 > .cs_description,
     .csslider1 > .cs_bullets {
         display: none;
     }
 }
+*/
