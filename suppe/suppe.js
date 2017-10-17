@@ -22,4 +22,12 @@ function findSuppe() {
     var i = ((Math.floor(Math.random() * (max - min + 1)) + min)) - 1;
     result = suppe[i];
     document.getElementById('res').innerHTML = result;
+    $.ajax({
+        url: 'write.php',
+        type: 'POST',
+        data: {result:result}//,
+        // success: function (responseText) {
+        //     alert(responseText);
+        // }
+    })
 }
