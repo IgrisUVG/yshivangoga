@@ -1,5 +1,5 @@
 <?php
-$moment = date('Y-m-d H:i:s');
+$moment = date('H:i:s d.m.Y');
 $fp = fopen('suppe.txt', 'a+');
-fwrite($fp, $_POST['result'] . " " . $moment . "\r\n");
+fwrite($fp, $moment . " " . $_POST['result'] . "\r\n");
 fclose($fp);
