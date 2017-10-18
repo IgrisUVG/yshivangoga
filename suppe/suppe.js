@@ -25,9 +25,6 @@ function findSuppe() {
     $.ajax({
         url: 'write.php',
         type: 'POST',
-        data: {result:result}//,
-        // success: function (responseText) {
-        //     alert(responseText);
-        // }
+        data: {result:result}
     })
 }
