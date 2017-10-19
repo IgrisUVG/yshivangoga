@@ -1,4 +1,4 @@
-#wrap {
+﻿#wrap {
     margin-top: 15%;
 }
 
@@ -6,7 +6,7 @@
     width: 150px;
     height: 150px;
     color: white;
-    font-family: Georgia, Serif;
+    font-family: Georgia, serif;
     font-size: 4em;
     background-color: #2e6da4;
     border: hidden;
@@ -28,7 +28,7 @@
 
 #main {
     margin-top: 50px;
-    font-family: Georgia, Serif;
+    font-family: Georgia, serif;
     font-size: 4em;
     color: #204d74;
 }
