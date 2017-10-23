@@ -8,8 +8,8 @@
 <!--[if lte IE 8]>
 <script src="/js/respond.min.js"></script>
 <![endif]-->
-<link href="/css/reset.css" rel="stylesheet" type="text/css"/>
-<link href="/css/style.css" rel="stylesheet" type="text/css"/>
-<link href="/css/menuLstyle.css" rel="stylesheet" type="text/css" />
-<link href="/css/stylesmall.css" rel="stylesheet" media="(max-width:801px)"/>
-<link href="/css/text.css" rel="stylesheet" type="text/css"/>
+<link href="/css/reset.css" rel="stylesheet" />
+<link href="/css/style.css" rel="stylesheet" />
+<link href="/css/menuLstyle.css" rel="stylesheet" />
+<!--<link href="/css/stylesmall.css" rel="stylesheet" media="(max-width:801px)"/>-->
+<link href="/css/text.css" rel="stylesheet" />

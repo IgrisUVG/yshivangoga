@@ -8,12 +8,18 @@
 .sit {
     float: right;
     margin: 0 10px;
+    font-size: 95%;
 }
 
 .sittxt {
-    margin: 10px 0;
+    margin: 10px 0 20px;
     font-size: 95%;
     color: #555;
+}
+
+.sittxt .border {
+    border: 1px solid #666;
+    padding: 0 2px 0 1px;
 }
 
 .border {
