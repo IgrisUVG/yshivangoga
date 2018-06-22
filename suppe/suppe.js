@@ -26,6 +26,34 @@ function findSuppe() {
     $.ajax({
         url: 'write.php',
         type: 'POST',
-        data: {result:result}
+        data: {result: result}
     })
 }
+
+$('#but').click(function () {
+    $(this).hide(500, 'swing');
+    $('#butMain').animate({
+        fontSize: 'hide',
+        width: 'hide',
+        height: 'hide',
+        opacity: 'hide',
+        display: 'none'
+    }, 500, 'swing', findSuppe());
+    $('#res').animate({
+        opacity: 1
+    }, 500, 'swing')
+});
+
+$('#res').click(function () {
+    $('#but').show(500, 'swing');
+    $('#butMain').animate({
+        display: 'block',
+        opacity: 'toggle',
+        // height: 'toggle',
+        // width: 'toggle',
+        fontSize: 'toggle'
+    }, 500, 'swing');
+    $(this).animate({
+        opacity: 0
+    }, 500, 'swing')
+});

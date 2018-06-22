@@ -2,7 +2,13 @@
     margin-top: 15%;
 }
 
+#butMain {
+    /*background-color: #2e6da455;*/
+}
+
 #but {
+    margin-left: auto;
+    margin-right: auto;
     width: 150px;
     height: 150px;
     color: white;
@@ -11,6 +17,7 @@
     background-color: #2e6da4;
     border: hidden;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 #but:hover {
@@ -26,9 +33,19 @@
     -moz-transform: translate(0, 2px); /** Firefox **/
 }
 
+:active, :hover, :focus {
+    outline: none;
+    outline-offset: 0;
+}
+
 #main {
-    margin-top: 50px;
+    /*margin-top: 50px;*/
     font-family: Georgia, serif;
     font-size: 4em;
     color: #204d74;
+}
+
+#res {
+    opacity: 0;
+    cursor: pointer;
 }
