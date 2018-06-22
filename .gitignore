@@ -1,4 +1,5 @@
 .idea/
 /node_modules
+/suppe/suppe.txt
 *.bak
 *.new
