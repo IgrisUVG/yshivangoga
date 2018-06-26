@@ -64,9 +64,7 @@ $('#but').click(function () {
     $('#res').animate({
         opacity: 1
     }, 500, 'swing');
-    $('#ingred').animate({
-        opacity: 1
-    }, 500, 'swing')
+    $('#ingred').show('slow')
 });
 
 $('#res').click(function () {
@@ -81,7 +79,5 @@ $('#res').click(function () {
     $(this).animate({
         opacity: 0
     }, 500, 'swing');
-    $('#ingred').animate({
-        opacity: 0
-    }, 500, 'swing')
+    $('#ingred').hide('fast')
 });
