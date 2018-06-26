@@ -41,11 +41,15 @@
 #main {
     /*margin-top: 50px;*/
     font-family: Georgia, serif;
-    font-size: 4em;
     color: #204d74;
 }
 
 #res {
     opacity: 0;
+    font-size: 4em;
     cursor: pointer;
+}
+
+#ingred {
+    font-size: 1.5em;
 }
