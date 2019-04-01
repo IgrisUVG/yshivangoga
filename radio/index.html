@@ -7,6 +7,7 @@
     <link href="css/player/base.css" rel="stylesheet" type="text/css"/>
     <link href="css/player/style-1.css" rel="stylesheet" type="text/css"/>
     <link href="css/ui/jquery.ui.slider.css" rel="stylesheet" type="text/css"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
     <script type="text/javascript" src="js/jquery-ui-1.10.2.custom.min.js"></script>
@@ -24,21 +25,23 @@
         <div id="rtplayer" class="rtplmain_window gradient_style">
             <a id="button_play_stop" class="rtplbutton_play_stop button_play_stop_style" href="#"></a>
             <div id="current_time" class="rtplcurrent_time">00:00:00</div>
-            <a id="rtplmute" class="rtplmute button_mute_style" href="#"></a>
-            <div id="rtplvolume" class="rtplvolume"></div>
-            <a id="rtplmaxvol" class="rtplmaxvol button_max_vol_style" href="#"></a>
+            <div id="volume">
+                <a id="rtplmute" class="rtplmute button_mute_style" href="#"></a>
+                <div id="rtplvolume" class="rtplvolume"></div>
+                <a id="rtplmaxvol" class="rtplmaxvol button_max_vol_style" href="#"></a>
+            </div>
         </div>
     </div>
 </div>
 <script>$(document).ready(function () {
-    new RTPlayer(1, 60, 0, "http://radio.yshivangoga.ru", "mp3", {"mp3": "http://radio.yshivangoga.ru/mp3128"}, "ru")
+    new RTPlayer(1, 60, 0, "http://radio.yshivangoga.ru:8001", "mp3", {"mp3": "http://radio.yshivangoga.ru:8001/mp3128"}, "ru")
 });
 </script>
 <script>
     function radioTitle() {
 
         // this is the URL of the json.xml file located on your server.
-        var url = 'http://radio.yshivangoga.ru/json.xsl';
+        var url = 'http://radio.yshivangoga.ru:8001/json.xsl';
 
         $.ajax({
             type: 'GET',
