@@ -50,6 +50,15 @@
     cursor: pointer;
 }
 
+#res:hover {
+    color: #2e6da4;
+}
+
+#res:active {
+    color: darkred;
+    font-size: 3.9em;
+}
+
 #ingred {
     font-size: 1.5em;
 }
