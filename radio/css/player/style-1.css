@@ -5,7 +5,7 @@
 */
 .gradient_style {
     /* Legacy browsers */
-    background: #CCCCCC url("gradient_style-1-bg.png") repeat-x top;
+    background: #CCCCCC;
     -o-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -webkit-background-size: 100% 100%;
