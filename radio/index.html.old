@@ -7,7 +7,7 @@
     <link href="css/player/base.css" rel="stylesheet" type="text/css"/>
     <link href="css/player/style-1.css" rel="stylesheet" type="text/css"/>
     <link href="css/ui/jquery.ui.slider.css" rel="stylesheet" type="text/css"/>
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
     <script type="text/javascript" src="js/jquery-ui-1.10.2.custom.min.js"></script>
@@ -32,14 +32,14 @@
     </div>
 </div>
 <script>$(document).ready(function () {
-    new RTPlayer(1, 60, 0, "http://radio.yshivangoga.ru:8001", "mp3", {"mp3": "http://radio.yshivangoga.ru:8001/mp3128"}, "ru")
+    new RTPlayer(1, 60, 0, "http://radio.yshivangoga.ru", "mp3", {"mp3": "http://radio.yshivangoga.ru/mp3128"}, "ru")
 });
 </script>
 <script>
     function radioTitle() {
 
         // this is the URL of the json.xml file located on your server.
-        var url = 'http://radio.yshivangoga.ru:8001/json.xsl';
+        var url = 'http://radio.yshivangoga.ru/json.xsl';
 
         $.ajax({
             type: 'GET',
