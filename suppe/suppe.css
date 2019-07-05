@@ -33,6 +33,11 @@
     -moz-transform: translate(0, 2px); /** Firefox **/
 }
 
+#search img {
+    width: 2em;
+    height: 2em;
+}
+
 :active, :hover, :focus {
     outline: none;
     outline-offset: 0;
