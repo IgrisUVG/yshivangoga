@@ -18,7 +18,7 @@
 ];
 var result = '';
 
-var ingred =[
+var ingred = [
     '#harch',
     '#borsh',
     '#stschi',
@@ -36,15 +36,15 @@ var ingred =[
     '#chicken',
     '#fasol'
 ];
-var links='';
+var links = '';
 
 function findSuppe() {
     var min = 1, max = suppe.length;
     var i = ((Math.floor(Math.random() * (max - min + 1)) + min)) - 1;
     result = suppe[i];
-    links=ingred[i];
+    links = ingred[i];
     document.getElementById('res').innerHTML = result;
-    $('#ingred').load('ingredients.html '+ links + ' > *');
+    $('#ingred').load('ingredients.html ' + links + ' > *');
     $.ajax({
         url: 'write.php',
         type: 'POST',
@@ -61,6 +61,12 @@ $('#but').click(function () {
         opacity: 'hide',
         display: 'none'
     }, 500, 'swing', findSuppe());
+    $('#search').animate({
+        width: 'hide',
+        height: 'hide',
+        opacity: 'hide',
+        display: 'none'
+    }, 500, 'swing');
     $('#res').animate({
         opacity: 1
     }, 500, 'swing');
@@ -74,6 +80,11 @@ $('#res').click(function () {
         opacity: 'toggle',
         // height: 'toggle',
         // width: 'toggle',
+        fontSize: 'toggle'
+    }, 500, 'swing');
+    $('#search').animate({
+        display: 'block',
+        opacity: 'toggle',
         fontSize: 'toggle'
     }, 500, 'swing');
     $(this).animate({
