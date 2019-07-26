@@ -33,9 +33,12 @@
     -moz-transform: translate(0, 2px); /** Firefox **/
 }
 
-#search input {
+#butLoupe {
+    background: url("loupeB.svg") no-repeat;
+    border: none;
     width: 3em;
     height: 3em;
+    cursor: pointer;
 }
 
 :active, :hover, :focus {
