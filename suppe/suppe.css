@@ -33,7 +33,7 @@
     -moz-transform: translate(0, 2px); /** Firefox **/
 }
 
-#search img {
+#search input {
     width: 3em;
     height: 3em;
 }
