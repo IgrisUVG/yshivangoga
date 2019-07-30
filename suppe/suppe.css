@@ -44,12 +44,12 @@
 
 #search input:not(:hover) {
     transition: 1s;
-    /*-webkit-filter: hue-rotate(120deg);*/
 }
 
 #search input:hover {
     transition: 1s;
     filter: hue-rotate(125deg);
+    /*-webkit-filter: hue-rotate(120deg);*/
 }
 
 :active, :hover, :focus {
