@@ -34,11 +34,22 @@
 }
 
 #search input {
-    background: url("loupe.svg") no-repeat;
+    background: center / contain no-repeat url("loupeB.svg");
     border: none;
+    padding: 0;
     width: 3em;
     height: 3em;
     cursor: pointer;
+}
+
+#search input:not(:hover) {
+    transition: 1s;
+    /*-webkit-filter: hue-rotate(120deg);*/
+}
+
+#search input:hover {
+    transition: 1s;
+    filter: hue-rotate(125deg);
 }
 
 :active, :hover, :focus {
