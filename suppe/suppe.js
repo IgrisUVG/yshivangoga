@@ -121,7 +121,8 @@ $('#res').click(function () {
     $(this).animate({
         opacity: 0
     }, 500, 'swing');
-    $('#ingred').hide('fast')
+    $('#ingred').hide('fast');
+    $(this).html("")
 });
 
 $('#butLoupe').click(function () {
@@ -143,5 +144,22 @@ $('#butLoupe').click(function () {
     $('#res_list').animate({
         display: 'block',
         opacity: 1
+    }, 500, 'swing');
+});
+
+$('#res_list').click(function () {
+    $(this).hide(500, 'swing');
+    $('#but').show(500, 'swing');
+    $('#butMain').animate({
+        display: 'block',
+        opacity: 'toggle',
+        // height: 'toggle',
+        // width: 'toggle',
+        fontSize: 'toggle'
+    }, 500, 'swing');
+    $('#search').animate({
+        display: 'block',
+        opacity: 'toggle',
+        fontSize: 'toggle'
     }, 500, 'swing');
 });
