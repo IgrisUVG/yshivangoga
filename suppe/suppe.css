@@ -33,23 +33,9 @@
     -moz-transform: translate(0, 2px); /** Firefox **/
 }
 
-#search input {
-    background: center / contain no-repeat url("loupeB.svg");
-    border: none;
-    padding: 0;
+#search img {
     width: 3em;
     height: 3em;
-    cursor: pointer;
-}
-
-#search input:not(:hover) {
-    transition: 1s;
-}
-
-#search input:hover {
-    transition: 1s;
-    filter: hue-rotate(125deg);
-    /*-webkit-filter: hue-rotate(120deg);*/
 }
 
 :active, :hover, :focus {
@@ -76,24 +62,6 @@
 #res:active {
     color: darkred;
     font-size: 3.9em;
-}
-
-#res_list {
-    opacity: 0;
-}
-
-ul {
-    /*font-size: 1.5em;*/
-    list-style-type: none;
-}
-
-a {
-    color: #2e6da4;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #204d74;
 }
 
 #ingred {
