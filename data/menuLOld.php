@@ -1,4 +1,5 @@
 <ul class = "nav menu">
+	<li>2019<br><a href="/14" <?=$_SERVER['REQUEST_URI'] == '/14' ? 'class="active"':''?>><IMG height=128 alt="Архитектура сознания" src="img/gif/alb/bsarch_m.gif"></a></li>
 	<li>2015<br><a href="/13" <?=$_SERVER['REQUEST_URI'] == '/13' ? 'class="active"':''?>><IMG height=128 alt="Культурный поход фрикoff на джас" src="img/gif/alb/kp_m.gif"></a></li>
 	<li>2014<br><a href="/12" <?=$_SERVER['REQUEST_URI'] == '/12' ? 'class="active"':''?>><IMG height=128 alt="Хрен Пикассо" src="img/gif/alb/hp_m.gif"></a></li>
 	<li>2013<br><a href="/11" <?=$_SERVER['REQUEST_URI'] == '/11' ? 'class="active"':''?>><IMG height=128 alt="Большие Уши" src="img/gif/alb/big_m.gif"></a></li>
